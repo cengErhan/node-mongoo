@@ -1,0 +1,12 @@
+{
+    "k1": {
+        "isim": "ali demir",
+        "sifre": 123,
+        "email": "ademirdemir@gmail.com"
+    },
+    "k2": {
+        "isim": "veli yılmaz",
+        "sifre": 456,
+        "email": "veliyilmaz@mail.com"
+    }
+}
